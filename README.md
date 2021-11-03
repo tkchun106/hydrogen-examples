@@ -6,7 +6,7 @@ In each directory you will find a self-contained example application that demons
 
 See the `README.md` in each example directory for more details on how to get started for each project.
 
-To explore Hydrogen, you can get started locally using [yarn or npm](https://shopify.dev/beta/hydrogen/getting-started) or explore a preview experience of Hydrogen on Stackblitz at [hydrogen.new](hydrogen.new)
+To explore Hydrogen, you can get started locally using [yarn or npm](https://shopify.dev/beta/hydrogen/getting-started) or explore a preview experience of Hydrogen on Stackblitz at [hydrogen.new](https://hydrogen.new)
 
 ## Code of Conduct
 
