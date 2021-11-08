@@ -1,12 +1,14 @@
-# Shopify Supply
+We are currently rebuilding Shopify Supply as a [Hydrogen](https://github.com/Shopify/hydrogen) reference example. 
 
-Shopify Supply is Shopify's official merch store. Now brought to you in Hydrogen!
+## Hydrogen
+Hydrogen is a React framework and SDK that you can use to build fast and dynamic Shopify custom storefronts.  To learn more head to: 
 
-# Hydrogen
+- [Hydrogen Github Repo](https://github.com/Shopify/hydrogen)
+- [Hydrogen Getting Started Docs](https://shopify.dev/custom-storefronts/hydrogen)
 
-Hydrogen is a React framework and SDK that you can use to build fast and dynamic Shopify custom storefronts.
+## What is Shopify Supply?
 
-[Check out the docs](https://shopify.dev/beta/hydrogen)
+[Shopify Supply](https://shopify.supply/) is more than swag. It's your first stop for the highly-anticipated releases you've been asking for, and the surprise drops that'll delight you. If you're interested in unique products designed for entrepreneurs, you're in the right place.
 
 ## Getting started
 
