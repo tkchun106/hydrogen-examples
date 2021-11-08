@@ -4,7 +4,7 @@ import Accordion from './Accordion.client';
 import BlobSection from './BlobSection.client';
 
 export default function ProductFaq({product}) {
-  const faqList = product.metafields.edges.map(({node}) => node)[2];
+  const faqList = product.metafields.edges.map(({node}) => node)[0];
   return (
     <section className="bg-white border-b-2 border-secondary">
       <div className="container mx-auto">
