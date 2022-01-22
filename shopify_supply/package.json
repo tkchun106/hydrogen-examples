@@ -21,7 +21,7 @@
     "build:worker": "WORKER=true vite build --outDir dist/worker --ssr worker.js",
     "build:worker-cf": "WORKER=true vite build --outDir dist/worker-cf --ssr worker-cf.js",
     "serve": "node --enable-source-maps server",
-    "prepare": "cd .. && husky install shopify_supply/.husky"
+    "prepare": "cd .. && husky install shopify_supply/.husky | pwd"
   },
   "prettier": "@shopify/prettier-config",
   "devDependencies": {
